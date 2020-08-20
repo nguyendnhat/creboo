@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/creboo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/creboo/static/js/main.03bbba97.chunk.js",
+    "main.js.map": "/creboo/static/js/main.03bbba97.chunk.js.map",
+    "runtime-main.js": "/creboo/static/js/runtime-main.78e47477.js",
+    "runtime-main.js.map": "/creboo/static/js/runtime-main.78e47477.js.map",
+    "static/js/2.d34e600d.chunk.js": "/creboo/static/js/2.d34e600d.chunk.js",
+    "static/js/2.d34e600d.chunk.js.map": "/creboo/static/js/2.d34e600d.chunk.js.map",
+    "index.html": "/creboo/index.html",
+    "precache-manifest.78cc495b497c7161c0dd07a2940d15c3.js": "/creboo/precache-manifest.78cc495b497c7161c0dd07a2940d15c3.js",
+    "service-worker.js": "/creboo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/creboo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d34e600d.chunk.js.LICENSE.txt": "/creboo/static/js/2.d34e600d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/creboo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78e47477.js",
+    "static/js/2.d34e600d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.03bbba97.chunk.js"
+  ]
+}
