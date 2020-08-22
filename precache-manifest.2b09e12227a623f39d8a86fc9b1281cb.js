@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68101a613f708fed6acaf04a2aa3149d",
+    "revision": "5d74b75c2fdb78105d3b57794fd84a07",
     "url": "/creboo/index.html"
   },
   {
-    "revision": "dc08dd7fe1e30b1c4274",
+    "revision": "c6fc9822bdf4fd9050e1",
     "url": "/creboo/static/css/2.26563539.chunk.css"
   },
   {
-    "revision": "cd5980fdcca6a59fc2c5",
-    "url": "/creboo/static/css/main.3c856a2e.chunk.css"
+    "revision": "9b5c62e3cf9dc132dbe5",
+    "url": "/creboo/static/css/main.47c51a43.chunk.css"
   },
   {
-    "revision": "dc08dd7fe1e30b1c4274",
-    "url": "/creboo/static/js/2.6fec5ca3.chunk.js"
+    "revision": "c6fc9822bdf4fd9050e1",
+    "url": "/creboo/static/js/2.8d3f9cde.chunk.js"
   },
   {
     "revision": "ffa35a34964860fdc97ed79ca9abd27c",
-    "url": "/creboo/static/js/2.6fec5ca3.chunk.js.LICENSE.txt"
+    "url": "/creboo/static/js/2.8d3f9cde.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd5980fdcca6a59fc2c5",
-    "url": "/creboo/static/js/main.5b32db3d.chunk.js"
+    "revision": "9b5c62e3cf9dc132dbe5",
+    "url": "/creboo/static/js/main.3c61a6e7.chunk.js"
   },
   {
     "revision": "989c05881aa6640c405c",
