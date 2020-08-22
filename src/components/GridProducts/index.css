@@ -1,0 +1,37 @@
+.badge_product {
+    height: 30px;
+    width: 50px;
+}
+.badge_product {
+    display: table;
+    z-index: 20;
+    pointer-events: none;
+    height: 2.8em;
+    width: 2.8em;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.badge-inner.on-sale {
+    background-color: #F15A22;
+}
+.badge-inner.on-sale {
+    background-color: #ff7300;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 0px;
+    top: 1px;
+    left: 1px;
+}
+.badge-inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    background-color: #446084;
+    line-height: .85;
+    color: #fff;
+    font-weight: bolder;
+    padding: 2px;
+    white-space: nowrap;
+    transition: background-color .3s, color .3s, border .3s;
+}
