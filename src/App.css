@@ -159,6 +159,8 @@ padding:4em 0 1em;
 .w3ls_logo_products_left{
 float:left;
 margin-right: 7em;
+
+padding-left: 15px;
 }
 .w3ls_logo_products_left h1 a{
 font-size: 1.5em;
@@ -236,6 +238,11 @@ float:right;
 .navbar {
   margin-bottom: 0;
   border: none;
+}
+.banner {
+
+  padding-right: 15px;
+  padding-left: 15px;
 }
 .w3l_banner_nav_left{
 float: left;
@@ -3011,6 +3018,8 @@ background: #343434;
 }
 .w3ls_logo_products_left {
   margin-right: 5em;
+
+
 }
 .w3ls_logo_products_left1 ul.special_items li i {
   padding: 0 1em;
